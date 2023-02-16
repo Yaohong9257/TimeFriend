@@ -2,9 +2,9 @@
 
 ## 平台发布情况
 
-iOS版-AppStore已发布；[在AppStore上查看](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
+iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
 
-Android版-GooglePlay审核中。[在GooglePaly上查看](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
+Android版时间朋友，GooglePlay审核中。[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
 
 ## 时间朋友产品说明
 
@@ -26,6 +26,6 @@ Android版-GooglePlay审核中。[在GooglePaly上查看](https://play.google.co
 
 
 补充说明：
-1.添加不同类型标签功能计划在v1.5版本前推出；
-2.番茄工作法计划在2.0版本推出；
-3.月、年以及自定义时间段统计计划在3.0版本推出；
+* 1.添加不同类型标签功能计划在v1.5版本前推出；
+* 2.番茄工作法计划在2.0版本推出；
+* 3.月、年以及自定义时间段统计计划在3.0版本推出；
