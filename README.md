@@ -1,6 +1,12 @@
 # 时间朋友(TimeFriend)
 
-AppStore已发布，GooglePlay审核中。
+## 平台发布情况
+
+iOS版-AppStore已发布；[在AppStore上查看](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
+
+Android版-GooglePlay审核中。[在GooglePaly上查看](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
+
+## 时间朋友产品说明
 
 为了更好的服务用户，加快软件开发进度以及更好的维护软件，我们推出了爱今天的收费版本--时间朋友iOS版。时间朋友iOS版是在爱今天的基础上重新设计开发而来，原爱今天的用户可以无缝登录到时间朋友，时间朋友将支持iOS、macOS、Android、Windows和Linux这五个平台，欢迎大家使用。
 
