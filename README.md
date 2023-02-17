@@ -4,7 +4,9 @@
 
 iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
 
-Android版时间朋友，GooglePlay审核中。[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
+Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
+
+MacOS版可在Release下载。
 
 ## 时间朋友产品说明
 
