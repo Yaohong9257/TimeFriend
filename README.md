@@ -1,12 +1,14 @@
 # 时间朋友(TimeFriend)
 
-## 一、平台发布情况
+## 一、已发布平台:iOS/Android/MacOS/Windows
 
 iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
 
-Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)
+Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目右侧的Release里下载。
 
-MacOS版可在Release下载。
+MacOS版时间朋友可在此项目右侧的Release里下载。
+
+Windows版时间朋友可此项目右侧的Release里下载。
 
 ## 二、时间朋友产品说明
 
