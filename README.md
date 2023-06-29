@@ -1,30 +1,66 @@
 # 时间朋友(TimeFriend)
 
+
 ## 一、已发布平台:iOS/Android/MacOS/Windows
 
-iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en)
+iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en) 目前iOS最新版本是v2.3.0
 
-Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v2.5.0（支持通知栏操作）
-
+Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v2.5.8（支持通知栏操作）
 
 
 MacOS版时间朋友可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)，在Release界面里点击`Assets`可查看文件。
 
+
 Windows版时间朋友可此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。
+
 
 ## 二、时间朋友产品说明
 
 为了更好的服务用户，加快软件开发进度以及更好的维护软件，我们推出了爱今天的收费版本--时间朋友。时间朋友是在爱今天的基础上重新设计开发而来，原爱今天的用户可以无缝登录到时间朋友，时间朋友将支持iOS、macOS、Android、Windows和Linux这五个平台，欢迎大家使用。
 
+
+
 “时间朋友”是一款以一万小时天才理论为主导的个人时间管理软件，能够记录你花费在目标上的时间，支持多级目标投入累计，能自动生成统计图表，帮你量化你的努力；
 
-时间朋友将一天的时间分为“投资、固定、睡眠、浪费”四大类，能让没有时间管理经验的人快速上手，支持记录一整天的时间使用，并自动生成每天时间分配图和时序图，对每天的使用给予评级，激励你投入，让你知道时间都去哪儿了，保持对时间的掌控，更高效的利用时间；
+
+![时间朋友-目标详情1](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/4_0.jpg)
+
+![时间朋友-目标统计1](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/4_1.jpg)
+
+
+时间朋友将一天的时间分为“投资、固定、睡眠、浪费”四大类，能让没有时间管理经验的人快速上手，支持记录一整天的时间使用，并自动生成每
+天时间分配图和时序图，对每天的使用给予评级，激励你投入，让你知道时间都去哪儿了，保持对时间的掌控，更高效的利用时间；
+
+![时间朋友首页](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/1.jpg)
+
+![时间朋友-每天1](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/7_0.jpg)
+
+![时间朋友-每天2](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/7_1.jpg)
+
 
 应用不仅可以支持实时计时，还能手动补录，记录可以添加不同类型标签和备注，帮你进行多维度统计分析，让你更了解自己，标签功能甚至可以用来实践不同的时间管理方式；
 
+![时间朋友-多计时](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/2.jpg)
+
+![时间朋友-添加记录](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/3.jpg)
+
+![时间朋友-时间轴](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/3_1.jpg)
+
+
 时间朋友还支持高阶番茄工作法，帮你刻意练习，精进你的技能，让你的能力从小白到大师不断突破；同时番茄工作法与每天的时间记录可以无缝融合切换，让记录更加便捷；
 
+![时间朋友-番茄计时](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/6_0.jpg)
+
+![时间朋友-刻意练习](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/6_2.jpg)
+
+
 时间朋友能够生成每周投入对比图、睡眠时长以及起床曲线图，可帮你了解自己的持续投入，养成良好睡眠作息习惯，能够按周、月、年以及自定义时间段来进行统计分析，让你在更大时间尺度上了解自己的投入情况，发现自己宏观上的周期规律。
+
+
+![时间朋友-每周1](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/8_0.jpg)
+
+![时间朋友-每周2](https://yaohong9257.github.io/TimeFriend/public/imgs/screenshot/8_1.jpg)
+
 
 时间朋友将持续把有效的时间管理方式融合到软件中，扩展你在目标达成以及时间管理的能力，让你在使用软件的同时用上最好的时间管理方式。
 
@@ -32,9 +68,9 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 
 
 补充说明：
-* 1.添加不同类型标签功能计划在v1.5版本前推出；
-* 2.番茄工作法计划在2.0版本推出；
-* 3.桌面小部件将在2.5版本推出；
+* 1.添加不同类型标签功能计划在v1.5版本前推出；[已发布]
+* 2.番茄工作法计划在2.0版本推出；[已发布]
+* 3.桌面小部件将在2.5版本推出；[Android已实现]
 * 4.月、年以及自定义时间段统计计划在3.0版本推出；
 
 
@@ -54,15 +90,41 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 
 ## 四、开通会员说明
 
-目前除iOS平台可以通过订阅方式购买会员，其他平台暂没接入支付方式，需要购买会员的用户可以通过支付宝转账方式购买，详见时间朋友->右上角'设置'->会员中心的购买说明，给您带来不便非常抱歉。
+会员服务购买说明：
+* 1.会员服务为虚拟产品，开通会员后权益立即生效，购买后不支持退款，感谢您理解；
+* 2.会员价格：12个月会员Lite为68元【代号:m1】，12个月会员标准版是98元【代号:m2】，9.9元体验一个月会员标准版【代号：m2_1】，12个月会员专业版是198元【代号:m3】; 
 
-由于iOS支付的手续费较高，如何您时间允许的话，我们希望您可以通过支付宝转账开通，为此我们推出会员赠送活动：
 
-从2023年3月14日起至2024年3月14日，使用*支付宝转账*方式开通*年度*会员的用户，可额外获得两个月会员，支付宝转账时需备注您的会员ID，转账方式在*非iOS版本*的会员中心查看，感谢您的支持。
+目前除iOS平台可以直接通过订阅方式购买会员，其他平台暂没接入支付方式，需要购买会员的用户可以通过支付宝转账方式购买，支付宝开通会员方式如下：
+
+* 1.您可以使用支付宝扫以下二维码转账对应版本的金额开通，【重要】转账需备注您的'会员ID或邮箱_要购买的会员版本代号'，支付宝转账时验证名字为：黄耀鸿，我们会在1-3个自然日(一般是24小时内)帮您开通对应版本的会员，开通后您可在“时间朋友App->设置->会员中心”界面顶部查看您的会员信息; 
+
+![支付宝付款码](https://yaohong9257.github.io/TimeFriend/public/imgs/paycode/alipay_code.jpg)
+
+举个例子，假设您的会员ID是1888，需要购买一年会员Lite版本，则转账时备注：1888_m1
+
+假设您的邮箱是`myMail@timefriend.vip`，需要购买一年会员标准版版本，则转账时备注：`myMail@timefriend.vip_m2`
+
+
+* 2.【重要】特别注意转账需要备注您的会员ID或邮箱，没有此信息我们将无法给您添加会员服务，支付宝收款码限制每天只能回复*一个*转账用户，若您提供会员ID或邮箱，我们将无法及时通知到您。
+
+* 3.如果您转账时忘了备注，可再转一分钱备注下，或联系QQ客服：624604006；
+
+
+从2023年3月14日起至2024年3月14日，使用*支付宝转账*方式开通*年度*会员的用户，可额外获得两个月会员，感谢您的支持。
+
+
 
 ## 五、我们的服务理念
 
 从2014年起，爱今天在没有收入的情况下，已连续9年服务了超过23万用户，我们承诺，只要有一个付费用户，时间朋友的服务就会持续进行，感谢您的支持。
+
+
+## 六、其他
+
+项目地址：https://github.com/Yaohong9257/TimeFriend
+
+项目Github Page主页：https://yaohong9257.github.io/TimeFriend/
 
 
 
