@@ -29,35 +29,35 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 时间朋友将一天的时间分为“投资、固定、睡眠、浪费”四大类，能让没有时间管理经验的人快速上手，支持记录一整天的时间使用，并自动生成每
 天时间分配图和时序图，对每天的使用给予评级，激励你投入，让你知道时间都去哪儿了，保持对时间的掌控，更高效的利用时间；
 
-![时间朋友首页](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/1.jpg)
+![时间朋友首页](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/1.png?raw=true)
 
-![时间朋友-每天1](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/7_0.jpg)
+![时间朋友-每天1](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/7_0.png?raw=true)
 
-![时间朋友-每天2](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/7_1.jpg)
+![时间朋友-每天2](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/7_1.png?raw=true)
 
 
 应用不仅可以支持实时计时，还能手动补录，记录可以添加不同类型标签和备注，帮你进行多维度统计分析，让你更了解自己，标签功能甚至可以用来实践不同的时间管理方式；
 
-![时间朋友-多计时](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/2.jpg)
+![时间朋友-多计时](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/2.png?raw=true)
 
-![时间朋友-添加记录](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3.jpg)
+![时间朋友-添加记录](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3.png?raw=true)
 
-![时间朋友-时间轴](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3_1.jpg)
+![时间朋友-时间轴](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3_1.png?raw=true)
 
 
 时间朋友还支持高阶番茄工作法，帮你刻意练习，精进你的技能，让你的能力从小白到大师不断突破；同时番茄工作法与每天的时间记录可以无缝融合切换，让记录更加便捷；
 
-![时间朋友-番茄计时](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/6_0.jpg)
+![时间朋友-番茄计时](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/6_0.png?raw=true)
 
-![时间朋友-刻意练习](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/6_2.jpg)
+![时间朋友-刻意练习](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/6_2.png?raw=true)
 
 
 时间朋友能够生成每周投入对比图、睡眠时长以及起床曲线图，可帮你了解自己的持续投入，养成良好睡眠作息习惯，能够按周、月、年以及自定义时间段来进行统计分析，让你在更大时间尺度上了解自己的投入情况，发现自己宏观上的周期规律。
 
 
-![时间朋友-每周1](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/8_0.jpg)
+![时间朋友-每周1](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/8_0.png?raw=true)
 
-![时间朋友-每周2](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/8_1.jpg)
+![时间朋友-每周2](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/8_1.png?raw=true)
 
 
 时间朋友将持续把有效的时间管理方式融合到软件中，扩展你在目标达成以及时间管理的能力，让你在使用软件的同时用上最好的时间管理方式。
@@ -97,7 +97,7 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 
 * 1.您可以使用支付宝扫以下二维码转账对应版本的金额开通，【重要】转账需备注您的'会员ID或邮箱_要购买的会员版本代号'，支付宝转账时验证名字为：黄耀鸿，我们会在1-3个自然日(一般是24小时内)帮您开通对应版本的会员，开通后您可在“时间朋友App->设置->会员中心”界面顶部查看您的会员信息; 
 
-![支付宝付款码](https://yaohong9257.github.io/TimeFriend/public/imgs/paycode/alipay_code.jpg)
+![支付宝付款码](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/paycode/alipay_code.jpg?raw=true)
 
 举个例子，假设您的会员ID是1888，需要购买一年会员Lite版本，则转账时备注：1888_m1
 
