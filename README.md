@@ -40,7 +40,7 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 
 ![时间朋友-多计时](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/2.png?raw=true)
 
-![时间朋友-添加记录](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3.png?raw=true)
+![时间朋友-添加记录](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3_0.png?raw=true)
 
 ![时间朋友-时间轴](https://github.com/Yaohong9257/TimeFriend/blob/main/public/imgs/screenshot/3_1.png?raw=true)
 
