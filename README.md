@@ -4,7 +4,7 @@
 
 iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en) 。目前iOS最新版本是v2.6.1；
 
-Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v2.6.8（支持支付宝购买会员）
+Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v3.0.0（支持支付宝购买会员）
 
 
 MacOS版时间朋友可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)，在Release界面里点击`Assets`可查看文件。
@@ -15,7 +15,7 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 
 ## 二、时间朋友产品说明
 
-为了更好的服务用户，加快软件开发进度以及更好的维护软件，我们推出了爱今天的收费版本--时间朋友。时间朋友是在爱今天的基础上重新设计开发而来，原爱今天的用户可以无缝登录到时间朋友，时间朋友将支持iOS、macOS、Android、Windows和Linux这五个平台，欢迎大家使用。
+为了更好的服务用户，加快软件开发进度以及更好的维护软件，我们推出了爱今天的收费版本--时间朋友。时间朋友是在爱今天的基础上重新设计开发而来，原爱今天的用户可以无缝登录到时间朋友，时间朋友目前支持iOS、macOS、Android、Windows这四大平台（Linux后续支持），欢迎大家使用。
 
 
 
@@ -68,7 +68,7 @@ Windows版时间朋友可此项目[右侧的Release里下载](https://github.com
 * 1.添加不同类型标签功能计划在v1.5版本前推出；[已发布]
 * 2.番茄工作法计划在2.0版本推出；[已发布]
 * 3.桌面小部件将在2.5版本推出；[Android已实现]
-* 4.月、年以及自定义时间段统计计划在3.0版本推出；
+* 4.月、年以及自定义时间段统计计划在3.0版本推出；[]
 
 
 
