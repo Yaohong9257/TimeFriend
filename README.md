@@ -2,9 +2,9 @@
 
 ## 一、已发布平台:iOS/Android/MacOS/Windows
 
-iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en) 。目前iOS最新版本是v2.6.1；
+iOS版时间朋友已发布到AppStore；[在AppStore上查看时间朋友](https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E6%9C%8B%E5%8F%8B/id6444887169?l=en) 。目前iOS最新版本是v3.2.0（预计12月15日前审核通过）；
 
-Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v3.0.0（支持支付宝购买会员）
+Android版时间朋友已发布到GooglePlay；[在GooglePaly上查看时间朋友](https://play.google.com/store/apps/details?id=vip.timefriend.timefriend)，相关Apk可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)。目前Android最新版本是v3.2.0（支持支付宝购买会员）
 
 
 MacOS版时间朋友可在此项目[右侧的Release里下载](https://github.com/Yaohong9257/TimeFriend/releases)，在Release界面里点击`Assets`可查看文件。
